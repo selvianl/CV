@@ -1,0 +1,152 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Anıl Selvi",
+    "label": "Software Engineer",
+    "image": "",
+    "email": "anil.selvi13@gmail.com",
+    "url": "https://github.com/selvianl",
+    "summary": "Working as a software engineer. \n Using Python, Go, Flask, Django, Docker, JavaScript, REST and more...",
+    "location": {
+      "countryCode": "TR",
+      "address": "Istanbul"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "selvianl",
+        "url": "https://www.linkedin.com/in/selvianl/"
+      },
+      {
+        "network": "Github",
+        "username": "selvianl",
+        "url": "https://www.github.com/selvianl/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Covalent Climate Tech",
+      "position": "Software Engineer",
+      "startDate": "2023-06-30",
+      "summary": "Focusing on crediting platform that connects independently-validated carbon removal projects",
+      "highlights": [
+        "CoreTechs: \n Python, Django, Go, Solidity \n Docker, Polygon, Github Actions,  \n Celery,  Redis, PostgreSQL"
+      ],
+      "url": "https://www.linkedin.com/company/covalentinc/"
+    },
+    {
+      "name": "NextLua",
+      "position": "Software Engineer",
+      "startDate": "2021-03-31",
+      "endDate": "2023-06-30",
+      "highlights": [
+        "CoreTechs: \n Python, Django, FastAPI, \n Docker, GitLab CI/CD,  \n Celery,  Redis,  ElasticSearch, PostgreSQL"
+      ],
+      "summary": "Focused on rent a car application which is called MOOV (Getir-Araç).",
+      "url": "https://www.linkedin.com/company/nextlua/"
+    },
+    {
+      "name": "Amani AI",
+      "position": "Software Engineer",
+      "startDate": "2020-08-31",
+      "endDate": "2021-01-31",
+      "highlights": [
+        "CoreTechs: \n Python, Django, Flask, \n Docker, DRF, \n Celery, Redis, PostgreSQL"
+      ],
+      "summary": "Was responsible to creating microservices developed image based AI models, maintaining, developing and deploying backend services for current product and Ininal.",
+      "url": "https://www.linkedin.com/company/amani-ai/"
+    },
+    {
+      "name": "Etiya",
+      "position": "Software Engineer",
+      "startDate": "2018-07-31",
+      "endDate": "2020-08-31",
+      "highlights": [
+        "CoreTechs: \n Python, Django, Flask, \n Docker, DRF,  \n Celery, Redis, PostgreSQL"
+      ],
+      "summary": "Was responsible for creating microservices from developled text based AI model, maintaincing, developing and deploying backend services.\nSome participation were Akbank, Fizz, Millenicom, Turkcell.",
+      "url": "https://www.linkedin.com/company/etiya/"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Muğla Üniversitesi",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor's degree",
+      "startDate": "2013-12-31",
+      "endDate": "2018-12-31",
+      "courses": []
+    },
+    {
+      "institution": "Zachodniopomorski Uniwersytet Technologiczny w Szczecinie",
+      "area": "Computer Science",
+      "studyType": "Undergraduate",
+      "startDate": "2015-12-31",
+      "endDate": "2016-12-31",
+      "courses": []
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [{
+    "name": "Languages",
+    "level": "Master",
+    "keywords": [
+      "Python",
+      "Go",
+      "JavaScript"
+    ]
+  },
+  {
+    "name": "Frameworks / Libraries",
+    "level": "Master",
+    "keywords": [
+      "Django",
+      "FastAPI",
+      "Flask",
+      "Jquery",
+      "Ajax",
+      "Celery",
+      "Echo"
+    ]
+  },
+  {
+    "name": "Storage",
+    "level": "Master",
+    "keywords": [
+      "MySQL", "PostgreSQL", "Redis", "ElasticSearch(limited)"
+    ]
+  },
+  {
+    "name": "Other",
+    "level": "Master",
+    "keywords": [
+      "Linux", "Git", "Github Actions", "Docker", "TMUX", "Vim", "REST", "RabbitMQ"
+    ]
+  }
+],
+  "languages": [
+    {
+      "language": "Turkish",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "C1"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Piotr Lewandowski",
+      "reference": "Anıl worked as an intern at our company. Throughout his internship, he had the opportunity to contribute to several projects. He displayed an outstanding level of work ethic. Anıl is very open minded software developer who is always ready to learn. His personality and positive attitude brought a lot of value to out team. \n\nI believe that Anıl Selvi will be a great asset to any organization that he will be employed in."
+    }
+  ],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
