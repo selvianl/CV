@@ -5,3 +5,7 @@ Run this command after make changes on `resume.json`.
 Serve locally:
 
 > firebase serve
+
+Markdown to pdf:
+
+> Use `yzane.markdown-pdf` extension and type `Markdown PDF: export(pdf)` after CMD+P`
