@@ -1,78 +1,64 @@
-#  Anıl Selvi
-* [Personal Webpage](https://anilselvi.com)
-* [LinkedIn](https://www.linkedin.com/in/selvianl)
-* [Github](https://github.com/selvianl)
-* [Mail](anil.selvi13@gmail.com)
+<body>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
+</head>
 
-## Executive Summary
+<span class="name">[<i class="name icon fa fa-globe"></i>](https://anilselvi.com) [<i class="icon fa fa-linkedin"></i>](https://www.linkedin.com/in/selvianl) Anıl Selvi [<i class="icon fa fa-github"></i>](https://github.com/selvianl) [<i class="icon fa fa-envelope"></i>](mailto:anil.selvi13@gmail.com)</span>
+ 
+## <span class="title"> Executive Summary </span>
 
-* 6 years of backend and devops(limited) development with different domains (AI, Mobility, Climate Tech)
-* Hand-on experience in Python, Golang
+- Experienced backend developer with 6 years of professional experience, specializing in Python and Go.
+- Proven track record of designing, developing, and maintaining scalable and efficient backend systems.
+- Interest in DevOps practices automation and infrastructure management.
+- Skilled in building RESTful APIs, microservices, and cloud-native applications.
+
 
 ## Working Experiences
 
-### 1. Software Engineer at [Covalent Climate Tech](https://www.linkedin.com/company/covalentinc/)
-`Jun 2023 - Present`
+### 1. [Covalent Climate Tech](https://www.linkedin.com/company/covalentinc/), Software Engineer, <span class="date">Jun 2023 - Present</span>
 
-> Focusing on crediting platform that connects independently-validated carbon removal projects
+- Focusing on crediting platform for carbon removal projects that connects independently-validated via blockchain.
 
-    CoreTechs:
-    Python, Django, Go, Solidity
-    Docker, Polygon, Github Actions,
-    Celery, Redis, PostgreSQL
-
-### 2. Software Engineer at [Nextlua](https://www.linkedin.com/company/nextlua/)
-
-`Mar 2021 / Jun 2023 - 2 years 3 months`
-
->Focused on rent a car application which is called MOOV (Getir-Araç)
-
-    CoreTechs:
-    Python, Django, FastAPI,
-    Docker, GitLab CI/CD,
-    Celery, Redis, ElasticSearch, PostgreSQL
+| **Languages**            | **Frameworks/Libraries**     | **DevOps/Tools**                  | **Other Tools/Technologies**         |
+|--------------------------|------------------------------|-----------------------------------|--------------------------------------|
+| Go, Python, Solidity     | Echo, Django, DRF            | Docker, Polygon, Github Actions   | Celery, Redis, Redis Stream, PostgreSQL |
 
 
-### 3. Software Engineer at [Amani AI](https://www.linkedin.com/company/amani-ai/)
+### 2. [Nextlua](https://www.linkedin.com/company/nextlua/),  Software Engineer,  <span class="date">Feb 2021 - Jun 2023</span>
 
-`Aug 2020 / Jan 2021 - 6 months`
+- Focused on rent a car application which is called MOOV / Getir-Araç.
+  
+| **Languages**          | **Frameworks/Libraries**   | **DevOps/Tools**         | **Other Tools/Technologies** |
+|------------------------|----------------------------|---------------------------|-------------------------------|
+| Python, JavaScript     | Django, FastAPI            | Docker, GitLab CI/CD, Rancher | Celery, RabbitMQ, Redis, ElasticSearch     |
 
->Was responsible to creating microservices developed image based AI models, maintaining, developing and deploying backend services for current product.
 
-    CoreTechs:
-    Python, Django, Flask,
-    Docker, DRF,
-    Celery, Redis, PostgreSQL
 
-### 4. Software Engineer at [Etiya](https://www.linkedin.com/company/etiya/)
+### 3. [Amani AI](https://www.linkedin.com/company/amani-ai/), Software Engineer, <span class="date">Aug 2020 - Jan 2021</span>
 
-`Jul 2018 / Aug 2020 - 2 years 1 month`
+- Was responsible to creating microservices developed image based AI models, maintaining, developing and deploying backend services for current product.
 
->Was responsible for creating microservices from developled text based AI model, maintaincing, developing and deploying backend services.
+| **Languages:**         | **Frameworks/Libraries:**   | **DevOps/Tools:**      | **Other Tools/Technologies:** |
+|------------------------|-----------------------------|-------------------------|--------------------------------|
+| Python, JavaScript     | Django, DRF, Flask         | Docker, GithubActions        | Celery, Redis, PostgreSQL     |
+
+    
+### 4. [Etiya](https://www.linkedin.com/company/etiya/),  Software Engineer,  <span class="date">Jul 2018 - Aug 2020</span>
+
+- Was responsible for creating microservices from developled text based AI model, maintaincing, developing and deploying backend services.
 Some participation were Akbank, Fizz, Millenicom, Turkcell.
 
-    CoreTechs:
-    Python, Django, Flask,
-    Docker, DRF,
-    Celery, Redis, PostgreSQL
+| **Languages:** | **Frameworks/Libraries:** | **DevOps/Tools:** | **Other Tools/Technologies:** |
+|----------------|---------------------------|-------------------|-------------------------------|
+| Python, JavaScript | Django, DRF, Flask | Docker, BitBucket  | Celery, Redis, PostgreSQL |
 
-### Skill Set
 
->Languages <br>
-```Python,Golang,JavaScript```
-
-> Frameworks / Libraries <br>
-```Django,DRF,FastAPI,Flask,Echo,Jquery,Ajax,Celery```
-
-> Storage <br>
-```MySQL,PostgreSQL,Redis,ElasticSearch(limited),RabbitMQ```
-
-> Other <br>
-```Linux,Git,Github Actions,Docker,TMUX,Vim,REST```
-
-### Education
-> Computer Engineering, Bachelor's degree, <b>Muğla Sıtkı Koçman University <br>
+## Education
+Computer Engineering, Bachelor's degree, <b> Muğla Sıtkı Koçman University </b>,
 2013 - 2018
 
-> Computer Science, Undergraduate, <b> Zachodniopomorski Uniwersytet Technologiczny w Szczecinie <br>
+Computer Science, Undergraduate, <b> Zachodniopomorski Uniwersytet Technologiczny w Szczecinie </b>,
 2015 - 2016
+
+</body>

@@ -1,0 +1,20 @@
+.date {
+    color: rgb(134, 91, 96);
+}
+
+.name {
+    font-size: 30px; 
+    display: block; 
+    text-align: center;
+}
+
+.title {
+    font-size: 20x; 
+    font-display: bold;
+    display: block; 
+    text-align: left;
+}
+
+body {
+    font-size: 10px;
+}
